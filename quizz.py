@@ -54,3 +54,5 @@ elif pontuacao == 2:
     print("👍 Muito bom!")
 else:
     print("📚 Continue estudando!")
+
+#Leonardo leite
