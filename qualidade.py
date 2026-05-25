@@ -8,7 +8,7 @@ def verificar_status(peso):
     else:
         return "reprovada"
 cabecalho()
-peso_item = float(input("digite o peso do item em gramos:"))
+peso_item = float(input("digite o peso do item em gramas:"))
 status = verificar_status(peso_item)
 print(f"resultado da inspiração:{status}")
 print("=" *30)
